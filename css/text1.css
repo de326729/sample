@@ -1,0 +1,20 @@
+
+body {
+  font: 13px/1.5 "Helvetica Neue", Arial, "Liberation Sans", FreeSans, sans-serif;
+}
+h2
+{
+  color: red;
+}
+h3{
+ color: blue;
+}
+.f_left
+{
+  float: left;
+}
+
+.f_right
+{
+  float:right;
+}
